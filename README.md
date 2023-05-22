@@ -15,5 +15,5 @@
   * CSS
 
 
- ** [LIVE DEMO] (https://yuliaevs.github.io/)
+ [LIVE DEMO] (https://yuliaevs.github.io/)
  ![Tic-Tac-Toe](https://github.com/YuliaEvs/Tic-Tac-Toe-Game/assets/96447638/ad3b594a-b1e8-4272-980c-a59ca21a6640)
