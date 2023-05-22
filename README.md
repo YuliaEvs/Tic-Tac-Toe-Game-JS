@@ -4,10 +4,10 @@
   + Handling Form Submition
   + Validating User Input
   + Storing & Managing Submitted Data
-   * managing game routes & field selections
-   * tracking selected fields
-   * checking for winner or drow
-   * restart logic   
+    * managing game routes & field selections
+    * tracking selected fields
+    * checking for winner or drow
+    * restart logic   
 
 + Tech Stack: 
   * HTML
