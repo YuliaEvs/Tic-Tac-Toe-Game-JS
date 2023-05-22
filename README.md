@@ -1,4 +1,4 @@
-# Milestone Tic-Tac-Toe-Game (web version)
+# JavaScript Tic-Tac-Toe-Game (web version)
 
 ### Building a Tic-Tac-Toe from scratch.
   + Handling Form Submition
